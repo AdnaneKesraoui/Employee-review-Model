@@ -29,7 +29,7 @@ This model leverages the power of RoBERTa, a robustly optimized transformer-base
 - **Language(s) (NLP):** en
 - **License:** cc0-1.0
 - **Parent Model:** cardiffnlp/twitter-roberta-base-2021-124m
-- **Resources for more information:** https://arxiv.org/abs/1907.11692
+- **Resources for more information:** https://arxiv.org/abs/1907.11692,
                                       https://arxiv.org/abs/2202.03829
 
 
