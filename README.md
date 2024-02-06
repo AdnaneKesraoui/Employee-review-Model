@@ -24,7 +24,7 @@ Employee satisfaction comes at the core of the success of every organization sin
 ## Model Description
 This model leverages the power of RoBERTa, a robustly optimized transformer-based architecture, for sentiment analysis of employee reviews. The primary objective is to automatically analyze the sentiment expressed in written employee feedback, providing valuable insights into the overall sentiment of reviews.
 
-- **Developed by:** Adnane Kesraoui
+- **Developed by:** Daniel Loureiro, Francesco Barbieri, Leonardo Neves, Luis Espinosa Anke, Jose Camacho-Collados
 - **Model type:** Language model
 - **Language(s) (NLP):** en
 - **License:** cc0-1.0
