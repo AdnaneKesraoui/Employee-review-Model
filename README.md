@@ -79,17 +79,7 @@ Continuous Model Monitoring: Implement a continuous monitoring system to track t
 The model is trained on the "Employees Reviews Dataset". For further information, refer to the following data card: kmrmanish/Employees_Reviews_Dataset.
 
 
-# Metrics for business goal eval and baselines
-
-Accuracy in Identifying Improvement Areas:
-System's ability to accurately pinpoint areas in the organization that need improvement based on employee feedback.
-
-Baseline: The existing accuracy rate at which current processes correctly identify areas needing improvement. This could be measured by looking at the number of identified areas that were later confirmed as needing improvement versus those that did not.
-
-Employee Retention Rate:
-Changes in employee retention rates over time, indicating the impact of ERA on employee satisfaction and retention.
-
-Baseline: The average retention rate over the past few years can serve as the baseline. Any significant deviation from this rate post-ERA implementation can be attributed to the model's impact.
+# Metric for business goal eval and baseline
 
 Employee Satisfaction Index (ESI):
 A numerical representation of overall employee satisfaction derived from sentiment analysis.
